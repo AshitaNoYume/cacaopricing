@@ -5,3 +5,5 @@ import arch as a
 import sys
 import numpy as np
 import math
+
+print(sys.argv)
