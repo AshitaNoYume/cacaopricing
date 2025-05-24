@@ -1,3 +1,11 @@
 # cacaopricing
 Cacao Pricing
-Programming
+
+
+RATIONALE:
+
+
+
+
+
+OBJECTIVES:
