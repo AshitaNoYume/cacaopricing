@@ -6,4 +6,4 @@ import sys
 import numpy as np
 import math
 
-print(sys.argv)
+cacao_data = yf.download("CC=F", start="2020-01-01", end="2025-05-20")
